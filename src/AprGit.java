@@ -13,7 +13,7 @@ public class AprGit {
         System.out.println("coucou c'est un test");
         System.out.println("coucou c'est un autre test");
         System.out.println("wesh faiur mon projet");
-        System.out.println("en plus tu galere a push lolilol mdr va a la salle allersalut ");
+        System.out.println("en plus tu galere a push lolilol mdr va a la salle allersalutok ");
         System.out.println("wula t'abuses");
         
    }
