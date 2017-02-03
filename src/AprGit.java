@@ -11,6 +11,9 @@
 public class AprGit {
     public static void main (String [] args){
         System.out.println("coucou c'est un test");
-        System.out.println("wesh fais pas d'la merde sur mon projet ");
+        System.out.println("wesh fais pas d'la merde sur mon projet");
+        System.out.println("en plus tu galere a push lolilol mdr va a la salle allersalut ");
+        System.out.println("wula t'abuses");
+        
    }
 }
