@@ -10,5 +10,6 @@
  */
 public class AprGit {
     public static void main (String [] args){
+        System.out.println("coucou c'est du test");
    }
 }
